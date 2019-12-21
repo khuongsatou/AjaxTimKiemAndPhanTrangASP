@@ -1,4 +1,5 @@
 Hướng dẫn:
+ValidateJquery->
 Trang tìm kiếm + phân trang ajax
 Tìm đến file 
 + search.aspx
