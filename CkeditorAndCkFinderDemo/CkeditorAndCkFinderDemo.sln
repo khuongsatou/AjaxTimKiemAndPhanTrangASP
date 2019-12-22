@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29521.150
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CkeditorAndCkFinderDemo", "CkeditorAndCkFinderDemo.csproj", "{2884D4B1-5303-4C71-A5A2-02518C14ACEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2884D4B1-5303-4C71-A5A2-02518C14ACEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2884D4B1-5303-4C71-A5A2-02518C14ACEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2884D4B1-5303-4C71-A5A2-02518C14ACEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2884D4B1-5303-4C71-A5A2-02518C14ACEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81596C6F-9267-4192-A6E4-D2E6DDC35117}
+	EndGlobalSection
+EndGlobal
